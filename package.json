@@ -1,0 +1,32 @@
+{
+    "name": "linkedin-jobs-scapper",
+    "version": "1.0.6",
+    "description": "advanced node.js package for scrapping jobs from LinkedIn",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oyejateen/linkedin-jobs-scapper.git"
+    },
+    "keywords": [
+        "linkedin",
+        "linkedin-jobs",
+        "jobs",
+        "linkedin-jobs-api",
+        "linkedin-api",
+        "api"
+    ],
+    "author": "oyejateen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oyejateen/linkedin-jobs-scapper/issues"
+    },
+    "homepage": "https://github.com/oyejateen/linkedin-jobs-scapper#readme",
+    "dependencies": {
+        "axios": "^1.7.9",
+        "cheerio": "^1.0.0-rc.12",
+        "random-useragent": "^0.5.0"
+    }
+}
