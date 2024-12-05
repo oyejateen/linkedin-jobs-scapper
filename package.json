@@ -1,6 +1,6 @@
 {
     "name": "linkedin-jobs-scapper",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "advanced node.js package for scrapping jobs from LinkedIn",
     "main": "index.js",
     "scripts": {
